@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://github.com/EverythingAI-Pro/founderos-releases/releases/latest"><b>⬇️ Download the latest version</b></a>
   &nbsp;•&nbsp;
+  <a href="https://raw.githubusercontent.com/EverythingAI-Pro/founderos-releases/main/docs/videos/v0.5.0/founderos-v0.5.0-launch.mp4"><b>▶️ Watch the launch</b></a>
+  &nbsp;•&nbsp;
   <a href="#install-founderos">Install guide</a>
   &nbsp;•&nbsp;
   <a href="#whats-new-in-v050">What's new</a>
