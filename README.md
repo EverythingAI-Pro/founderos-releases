@@ -13,6 +13,8 @@
   &nbsp;•&nbsp;
   <a href="#install-founderos">Install guide</a>
   &nbsp;•&nbsp;
+  <a href="#your-first-10-minutes">Your first 10 minutes</a>
+  &nbsp;•&nbsp;
   <a href="#whats-new-in-v050">What's new</a>
 </p>
 
@@ -26,9 +28,9 @@ Pick the file that matches your computer, then follow the short install steps be
 
 | Your computer | Download | What to do |
 | --- | --- | --- |
-| **Mac** — Apple Silicon (M1, M2, M3, M4) | [**FounderOS-mac-arm64.dmg**](https://github.com/EverythingAI-Pro/founderos-releases/releases/latest) | Open it, drag FounderOS into Applications, open it |
-| **Mac** — Intel chip | [**FounderOS-mac-x64.dmg**](https://github.com/EverythingAI-Pro/founderos-releases/releases/latest) | Open it, drag FounderOS into Applications, open it |
-| **Windows** 10 or 11 | [**FounderOS-win-x64.exe**](https://github.com/EverythingAI-Pro/founderos-releases/releases/latest) | Double-click it, click *More info*, click *Run anyway*, follow the wizard |
+| **Mac** — Apple Silicon (M1, M2, M3, M4) | [**FounderOS-mac-arm64.dmg**](https://github.com/EverythingAI-Pro/founderos-releases/releases/download/v0.5.0-tester/FounderOS-0.5.0-mac-arm64.dmg) | Open it, drag FounderOS into Applications, open it |
+| **Mac** — Intel chip | [**FounderOS-mac-x64.dmg**](https://github.com/EverythingAI-Pro/founderos-releases/releases/download/v0.5.0-tester/FounderOS-0.5.0-mac-x64.dmg) | Open it, drag FounderOS into Applications, open it |
+| **Windows** 10 or 11 | [**FounderOS-win-x64.exe**](https://github.com/EverythingAI-Pro/founderos-releases/releases/download/v0.5.0-tester/FounderOS-0.5.0-win-x64.exe) | Double-click it, click *More info*, click *Run anyway*, follow the wizard |
 
 > **Which Mac do I have?** Click the Apple menu (top-left) → **About This Mac** → look at the chip line. Says *Apple* → pick Apple Silicon. Says *Intel* → pick Intel.
 
@@ -85,6 +87,26 @@ The Mac version is signed by Apple, so it should open normally. If your Mac ever
 7. Follow the setup screens.
 
 > **Why the blue box?** FounderOS is brand new and not yet registered with Microsoft, so Windows shows a caution the first time. It's safe — it comes straight from this official release page. **More info → Run anyway → Yes** is all you need. A signed Windows version is coming soon to remove this step.
+
+<br>
+
+## Your First 10 Minutes
+
+You do not need to figure anything out on your own. The first time you open FounderOS, a **guided setup takes over and walks you through everything, one step at a time.** You cannot get lost: it only shows one screen at a time, and if you close the app halfway, it picks up right where you left off.
+
+Here is the journey it walks you through:
+
+| Step | What happens | What you do |
+| --- | --- | --- |
+| **1. Welcome** | FounderOS introduces itself and explains what it's about to set up | Just click through |
+| **2. Connect your AI** | FounderOS connects to the AI subscription you already have (like Claude) | Sign in when it asks — no new subscription to buy |
+| **3. Choose your engine** | Pick which AI runs your workspace | Click the recommended option |
+| **4. Connect your accounts** | Link the accounts FounderOS works with | Follow the sign-in prompts |
+| **5. Create your company brain** | FounderOS builds your private company memory | Answer a few simple questions about your business |
+| **6. Add skills** | Your AI team learns what kinds of work it can do for you | Pick the ones that match your business |
+| **7. Meet your AI team** | Your council of AI assistants is introduced, ready to work | Say hello and give them their first task |
+
+When the setup finishes, you land in your command center with a working AI team. **Total time: about 10 minutes.**
 
 <br>
 
